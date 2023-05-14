@@ -1,7 +1,7 @@
 # Project name : pythonic-garage-band
 ## LAB - Class 04
 ## Project: pythonic-garage-band
-## Author: Asem Attallah - Abdallah Toghouj
+## Author: Asem Attallah-Abdallah Toghouj
 <hr/>
 
 ## Setup .env requirements:
